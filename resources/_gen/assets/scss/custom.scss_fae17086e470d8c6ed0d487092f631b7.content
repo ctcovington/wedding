@@ -1,0 +1,31 @@
+body {
+  font-family: 'Courier New', monospace;
+  background-color: #d4d0b0;
+  /* #f6f1ea is off-white */ }
+
+.avatar img {
+  width: 30rem;
+  height: 30rem;
+  border-radius: 0; }
+  @media only screen and (max-width: 768px) {
+    .avatar img {
+      width: 25rem;
+      height: 25rem; } }
+/* create "negative margin" below third-level headers */
+h1 {
+  font-family: 'Helvetica Neue', monospace;
+  color: maroon; }
+
+h2 {
+  font-family: 'Helvetica Neue', monospace;
+  color: maroon; }
+
+h3 {
+  margin-bottom: -15px;
+  color: maroon; }
+
+/* change hyperlink color */
+a {
+  color: maroon; }
+
+/*# sourceMappingURL=custom.css.map */
