@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.abducovington.party'
 languageCode = 'en-us'
 title = 'Amina & Christian'
 theme = 'Coder'
@@ -9,5 +9,5 @@ theme = 'Coder'
 [markup.goldmark.renderer]
   unsafe = true
 
-[markup.goldmark.extensions.header]
-  anchor = false
+# [markup.goldmark.extensions.header]
+#   anchor = false
