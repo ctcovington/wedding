@@ -1,4 +1,12 @@
+# Hugo build output
 public
+resources
+
+# Hugo lock file
+.hugo_build.lock
 
 # Local Netlify folder
 .netlify
+
+# macOS specific
+.DS_Store

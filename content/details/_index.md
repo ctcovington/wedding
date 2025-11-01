@@ -4,12 +4,12 @@ date: 2025-08-30T11:00:00-04:00
 draft: false
 ---
 
-Join us on **Saturday, May 30, 2026** in Fairview, NC for our wedding celebration.
+Join us on **Saturday, May 30, 2026** in Fairview, NC for our wedding celebration. <br>
 All festivities will take place outdoors.
 
 ### CEREMONY
 **5:00 PM** <br>
-Dress Code: **TBD**
+Dress Code: Cocktail attire
 
 ### COCKTAIL HOUR
 **5:30 - 7:00 PM** <br>

@@ -28,4 +28,7 @@ h3 {
 a {
   color: maroon; }
 
+.about h1 {
+  font-family: 'Helvetica Neue', monospace; }
+
 /*# sourceMappingURL=custom.css.map */

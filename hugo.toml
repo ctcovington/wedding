@@ -1,13 +1,50 @@
 baseURL = 'https://www.abducovington.party'
 languageCode = 'en-us'
-title = 'Amina & Christian'
+title = 'AMINA & CHRISTIAN'
 theme = 'Coder'
 
 [params]
   customSCSS = ["scss/custom.scss"]
+  # Site home page author/title and short info used by the Coder theme
+  author = "AMINA & CHRISTIAN"
 
 [markup.goldmark.renderer]
   unsafe = true
 
-# [markup.goldmark.extensions.header]
-#   anchor = false
+[markup.goldmark.extensions.header]
+  anchor = false
+
+[[menu.main]]
+  name = "Details"
+  url = "/details/"
+  weight = 1
+
+[[menu.main]]
+  name = "Location"
+  url = "/location/"
+  weight = 2
+
+[[menu.main]]
+  name = "Travel"
+  url = "/travel/"
+  weight = 3
+
+[[menu.main]]
+  name = "Accommodations"
+  url = "/accommodations/"
+  weight = 4
+
+[[menu.main]]
+  name = "Fun"
+  url = "/fun/"
+  weight = 5
+
+[[menu.main]]
+  name = "RSVP"
+  url = "/rsvp/"
+  weight = 6
+
+[[menu.main]]
+  name = "Questions"
+  url = "/questions/"
+  weight = 7
