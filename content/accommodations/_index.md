@@ -19,8 +19,9 @@ between the hotel and the venue on the day of the wedding.
 
 **Room Block Information** 
 
-$259 per night for a room with either 1 King Bed or 2 Queen Beds
-$15 parking fee per night 
+$259 per night for a room with either 1 King Bed or 2 Queen Beds <br>
+$15 parking fee per night <br>
+Group rate reservations available until April 29, 2026 <br>
 [Reservtation link](https://www.hilton.com/en/attend-my-event/avladgi-90l-982eff55-3edc-4bbd-9434-a3c8b6cfc5ba/)
 
 <!-- **Room Block Information** $259 per night, $15 parking fee per night  -->
