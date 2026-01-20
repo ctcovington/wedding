@@ -5,9 +5,7 @@ draft: false
 ---
 
 **Do you have a registry?**
-We don't have a registry! We are lucky to have everything we need, and truly don't want any gifts. 
-Celebrating with friends and family means more to us than anything else we could imagine, and we can't wait to do just that with you! 
-
+We don't have a registry. We're lucky to have everything we need already! The best gift you can give us is celebrating alongside us—we can’t wait to see you.
 
 
 **What should I wear?**
