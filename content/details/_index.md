@@ -9,7 +9,7 @@ All festivities will take place outdoors.
 
 ### CEREMONY
 **5:00 PM** <br>
-Dress Code: Cocktail attire
+Dress Code: Cocktail attire (see FAQ for more details)
 
 ### COCKTAIL HOUR
 **5:30 - 7:00 PM** <br>
