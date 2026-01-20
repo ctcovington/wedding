@@ -5,7 +5,7 @@ draft: false
 ---
 
 **Do you have a registry?**
-We don't have a registry. We're lucky to have everything we need already! The best gift you can give us is to come ready to celebrate alongside us—we can’t wait to see you!
+We don't have a registry. We're lucky to have everything we need already! The best gift you can give us is celebrating alongside us—we can’t wait to see you!
 
 
 **What should I wear?**
