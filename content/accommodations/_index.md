@@ -6,7 +6,7 @@ draft: false
 
 We have a block of rooms at the Hilton Garden Inn Asheville Downtown which can be reserved at the group rate below.
 
-Guests are free to stay wherever they'd like, but we will be providing shuttle service
+Additionally, there are a number of hotels, Airbnbs and VRBOs in downtown Asheville and Fairview. Guests are free to stay wherever they'd like, but we will be providing shuttle service
 between the hotel and the venue on the day of the wedding.
 
 <br>
