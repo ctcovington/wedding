@@ -5,7 +5,7 @@ draft: false
 ---
 
 Join us on **Saturday, May 30, 2026** in Fairview, NC for our wedding celebration. <br>
-All festivities will take place outdoors.
+All festivities will take place outdoors. We can't wait to see you!
 
 ### CEREMONY
 **5:00 PM** <br>
