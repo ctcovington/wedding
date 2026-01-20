@@ -14,8 +14,9 @@ Dress Code: Cocktail attire (see FAQ for more details)
 ### COCKTAIL HOUR
 **5:30 - 7:00 PM** <br>
 Light hors d'oeuvres from Chai Pani <br>
-Coffee <br>
-Lawn Games
+Coffee and other refreshments<br>
+Lawn Games<br>
+Live jazz
 
 ### RECEPTION
 **7:00 - 11:00 PM** <br>
