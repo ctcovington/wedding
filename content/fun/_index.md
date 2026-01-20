@@ -6,6 +6,8 @@ draft: false
 
 ## Things to do around Asheville
 
+We love Asheville and can't wait to share it with you! Here's a mix of our favorite spots and places we've yet to check off our list.
+
 Type| Name | Address |
 | --- | --- | --- |
 | Food (Taco Shop) | [White Duck](https://whiteducktacoshop.com) | [12 Biltmore Ave](https://maps.app.goo.gl/MpuS8S49QELRNV9P8) |
